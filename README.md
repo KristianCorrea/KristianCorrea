@@ -9,7 +9,7 @@
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-<p align="center">
+<p align="left">
 &nbsp; <a href="https://www.linkedin.com/in/kristian-correa/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:kristiangcorrea@live.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
