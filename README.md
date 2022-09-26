@@ -1,5 +1,5 @@
 <h2 align = "center">👨‍💻Full Stack Developer💻</h2>
-<h2>Who's passion is creating fully functional web apps from Front End to Back End. </h2>
+<h2>Coding fully functional web apps from Front End to Back End. </h2>
 <h3>🛠 Tech Stack</h3>
 
 - React | Redux | JavaScript | HTML | CSS
